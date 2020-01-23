@@ -1,2 +1,3 @@
 # hello-world
-Hello world
+Hi Github
+Im excited to explore.
